@@ -1,4 +1,6 @@
-I created ransomware and successfully used it in different attacks. I recorded a video demo of one attack.
+I created ransomware and successfully used it in different attacks. 
+
+Video demo: https://youtu.be/7_7jK8z_2rk
 
 I improved my ransomware afterwards by using a TLS socket to conceal the network traffic. I captured the traffic before
 and after I executed the attack. I have screenshots of the plaintext vs the ciphertext in a pdf file in this directory. 
